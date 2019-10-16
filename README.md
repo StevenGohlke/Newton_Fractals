@@ -18,10 +18,4 @@ for more details on how to do that). This is in order to speed-up computation fo
 
 ## Sample Outputs
 
-![](sample_outputs/fractal_polynomial.png)
-
-![](sample_outputs/fractal_roots_of_unity_4.png)
-
-![](sample_outputs/fractal_roots_of_unity_7.png)
-
-![](sample_outputs/fractal_sinus.png)
+<img src="sample_outputs/fractal_polynomial.png" width="200" /> <img src="sample_outputs/fractal_roots_of_unity_4.png" width="200" /> <img src="sample_outputs/fractal_roots_of_unity_7.png" width="200" /> <img src="sample_outputs/fractal_sinus.png" width="200" />
